@@ -20,4 +20,4 @@ Redmi 6: https://pitchblackrecovery.com/cereus/
 Redmi 6A: https://pitchblackrecovery.com/cactus/
 
 
-Gratitudes: myst33d, yarpopkov (MegaFon929), MyCats, lr-team, PBRP-Team, @Attorelle from Telegram
+### Gratitudes: myst33d, yarpopkov (MegaFon929), MyCats, lr-team, PBRP-Team, @Attorelle from Telegram
