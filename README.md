@@ -12,5 +12,12 @@ Redmi 6: https://twrp.me/xiaomi/xiaomiredmi6.html
 
 Redmi 6A: https://twrp.me/xiaomi/xiaomiredmi6a.html
 
-Gratitudes: myst33d, yarpopkov, MyCats, lr-team
+## Other recovery projects
+###  PitchBlack Recovery Project
 
+Redmi 6: https://pitchblackrecovery.com/cereus/
+
+Redmi 6A: https://pitchblackrecovery.com/cactus/
+
+
+Gratitudes: myst33d, yarpopkov, MyCats, lr-team, PBRP-Team, @Attorelle from Telegram
