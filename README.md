@@ -4,8 +4,7 @@ These sources are the result of the work of some people
 
 If you have any ideas about what can be fixed and how to do it, please email us yarpopkov@yandex.ru
 
-Also, the sources for Radmin 9A (Dandelion) and Redmi 9C (Angelican) are a test branch and stable operation is not guaranteed. The TWRP built from them has not been tested by anyone.
-
+Also, the sources for Radmin 9A (Dandelion) and Redmi 9C (Angelican) are a test branch and stable operation is not guaranteed. TWRP could not be build at the moment
 There are official TWRP versions for Redmi 6 and 6A.
 
 Redmi 6: https://twrp.me/xiaomi/xiaomiredmi6.html
